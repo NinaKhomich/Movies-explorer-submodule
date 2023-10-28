@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:NinaKhomich/movies-explorer-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:NinaKhomich/movies-explorer-api.git
